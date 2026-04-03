@@ -1,14 +1,17 @@
-# 🚀 Smart Task Predictor & Analyzer
+🚀 Smart Task Predictor & Analyzer
 AI/ML model to classify tasks and predict priority.
 
-## ✨ Features
-- Task Classification (Work, Study, Personal)
-- Priority Prediction (High, Medium, Low)
-- UI built with Streamlit
-- Deployed via Docker on Hugging Face
+✨ Features
+Classification: Work, Study, Personal.
+Priority: High, Medium, Low.
+Interface: Interactive Streamlit UI.
+Deployment: Dockerized on Hugging Face.
 
-## 🔗 Live Demo
+🔗 Live DemoView Live App
 https://jaweriamalik678-smart-task-predictor.hf.space/
 
-## 🛠️ Tech Stack
-- Python, Scikit-learn, Pandas, Streamlit, Docker
+🛠️ Tech StackLanguage: Python
+ML: Scikit-learn, Pandas
+UI: Streamlit
+DevOps: Docker, Hugging Face
+
